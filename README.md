@@ -2,5 +2,5 @@
 
 ### Please Run below command before registration process start
 ```
-json-server --watch src/assets/data.json --port 3001
+npx json-server --watch src/assets/data.json --port 3001
 ```
